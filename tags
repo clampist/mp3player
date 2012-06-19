@@ -1,0 +1,264 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BY_ABLUM	medialib.h	/^	BY_ABLUM,$/;"	e	enum:_find_cond
+BY_ABLUM	tmp/medialib.h	/^	BY_ABLUM,$/;"	e	enum:_find_cond
+BY_ARTIST	medialib.h	/^	BY_ARTIST,$/;"	e	enum:_find_cond
+BY_ARTIST	tmp/medialib.h	/^	BY_ARTIST,$/;"	e	enum:_find_cond
+BY_FILEPATH	medialib.h	/^	BY_FILEPATH$/;"	e	enum:_find_cond
+BY_FILEPATH	tmp/medialib.h	/^	BY_FILEPATH$/;"	e	enum:_find_cond
+BY_GENRE	medialib.h	/^	BY_GENRE,$/;"	e	enum:_find_cond
+BY_GENRE	tmp/medialib.h	/^	BY_GENRE,$/;"	e	enum:_find_cond
+BY_TITLE	medialib.h	/^	BY_TITLE,$/;"	e	enum:_find_cond
+BY_TITLE	tmp/medialib.h	/^	BY_TITLE,$/;"	e	enum:_find_cond
+CALLBACK_H_	callback.h	4;"	d
+DB_H_	db.h	2;"	d
+GENERAL_MEDIALIB_INIT	main_core.h	5;"	d
+GENERAL_MEDIALIB_INIT	tmp/main_core.h	8;"	d
+GENERAL_MUTE	main_core.h	9;"	d
+GENERAL_MUTE	tmp/main_core.h	12;"	d
+GENERAL_PLAYLIST_INIT	main_core.h	6;"	d
+GENERAL_PLAYLIST_INIT	tmp/main_core.h	9;"	d
+GENERAL_PLAY_MODE	main_core.h	7;"	d
+GENERAL_PLAY_MODE	tmp/main_core.h	10;"	d
+GENERAL_VOLUME	main_core.h	8;"	d
+GENERAL_VOLUME	tmp/main_core.h	11;"	d
+INTERFACE_H_	interface.h	6;"	d
+InterFace	interface.h	/^typedef struct _interface InterFace;$/;"	t	typeref:struct:_interface
+MAIN_CORE_H_	main_core.h	4;"	d
+MAIN_CORE_H_	tmp/main_core.h	6;"	d
+MAIN_H_	main.h	2;"	d
+MAX_ALBUM_LENGTH	medialib.h	6;"	d
+MAX_ALBUM_LENGTH	tmp/medialib.h	8;"	d
+MAX_ATRIST_LENGTH	medialib.h	5;"	d
+MAX_ATRIST_LENGTH	tmp/medialib.h	7;"	d
+MAX_FILE_LENGTH	medialib.h	9;"	d
+MAX_FILE_LENGTH	tmp/medialib.h	11;"	d
+MAX_GENRE_LENGTH	medialib.h	7;"	d
+MAX_GENRE_LENGTH	tmp/medialib.h	9;"	d
+MAX_PATH_LENGTH	medialib.h	8;"	d
+MAX_PATH_LENGTH	tmp/medialib.h	10;"	d
+MAX_TITLE_LENGTH	medialib.h	4;"	d
+MAX_TITLE_LENGTH	tmp/medialib.h	6;"	d
+MEDIALIB_ADD_DIR	main_core.h	19;"	d
+MEDIALIB_ADD_FILE	main_core.h	18;"	d
+MEDIALIB_ADD_FILE	tmp/main_core.h	23;"	d
+MEDIALIB_ADD_FILE	tmp/main_core.h	24;"	d
+MEDIALIB_BRUSH	main_core.h	17;"	d
+MEDIALIB_BRUSH	tmp/main_core.h	22;"	d
+MEDIALIB_DEL	main_core.h	22;"	d
+MEDIALIB_DEL	tmp/main_core.h	27;"	d
+MEDIALIB_DEL_ALL	main_core.h	23;"	d
+MEDIALIB_DEL_ALL	tmp/main_core.h	28;"	d
+MEDIALIB_FIND	main_core.h	20;"	d
+MEDIALIB_FIND	tmp/main_core.h	25;"	d
+MEDIALIB_H_	medialib.h	3;"	d
+MEDIALIB_H_	tmp/medialib.h	5;"	d
+MEDIALIB_SEARCH	main_core.h	21;"	d
+MEDIALIB_SEARCH	tmp/main_core.h	26;"	d
+MEDIALIB_SELECT_CLASS	main_core.h	24;"	d
+MEDIALIB_SELECT_CLASS	tmp/main_core.h	29;"	d
+MEDIALIB_SELECT_FILE	main_core.h	25;"	d
+MEDIALIB_SELECT_FILE	tmp/main_core.h	30;"	d
+MEDIALIB_SEND_TO_PLAYLIST	main_core.h	26;"	d
+MEDIALIB_SEND_TO_PLAYLIST	tmp/main_core.h	31;"	d
+MEDIALIB_SHOW	main_core.h	16;"	d
+MEDIALIB_SHOW	tmp/main_core.h	21;"	d
+Medialib	medialib.h	/^typedef struct _medialib Medialib;$/;"	t	typeref:struct:_medialib
+Medialib	tmp/medialib.h	/^typedef struct _medialib Medialib;$/;"	t	typeref:struct:_medialib
+PLAYLIST_ADD_DIR	main_core.h	30;"	d
+PLAYLIST_ADD_DIR	tmp/main_core.h	36;"	d
+PLAYLIST_ADD_FILE	main_core.h	29;"	d
+PLAYLIST_ADD_FILE	tmp/main_core.h	35;"	d
+PLAYLIST_BRUSH	main_core.h	28;"	d
+PLAYLIST_BRUSH	tmp/main_core.h	34;"	d
+PLAYLIST_COMP	main_core.h	37;"	d
+PLAYLIST_COMP	tmp/main_core.h	43;"	d
+PLAYLIST_COMPOSITOR_BY_NAME	main_core.h	34;"	d
+PLAYLIST_COMPOSITOR_BY_NAME	tmp/main_core.h	40;"	d
+PLAYLIST_DEL	main_core.h	31;"	d
+PLAYLIST_DEL	tmp/main_core.h	37;"	d
+PLAYLIST_DEL_ALL	main_core.h	32;"	d
+PLAYLIST_DEL_ALL	tmp/main_core.h	38;"	d
+PLAYLIST_OPEN	main_core.h	35;"	d
+PLAYLIST_OPEN	tmp/main_core.h	41;"	d
+PLAYLIST_SAVE	main_core.h	36;"	d
+PLAYLIST_SAVE	tmp/main_core.h	42;"	d
+PLAYLIST_SELECT	main_core.h	33;"	d
+PLAYLIST_SELECT	tmp/main_core.h	39;"	d
+PLAYLIST_SHOW	main_core.h	27;"	d
+PLAYLIST_SHOW	tmp/main_core.h	33;"	d
+PLAY_H_	play.h	5;"	d
+PLAY_NEXT	main_core.h	42;"	d
+PLAY_NEXT	tmp/main_core.h	49;"	d
+PLAY_PAUSE	main_core.h	40;"	d
+PLAY_PAUSE	tmp/main_core.h	47;"	d
+PLAY_PITCH	main_core.h	43;"	d
+PLAY_PITCH	tmp/main_core.h	50;"	d
+PLAY_PRE	main_core.h	41;"	d
+PLAY_PRE	tmp/main_core.h	48;"	d
+PLAY_START	main_core.h	38;"	d
+PLAY_START	tmp/main_core.h	45;"	d
+PLAY_STOP	main_core.h	39;"	d
+PLAY_STOP	tmp/main_core.h	46;"	d
+Playlist	medialib.h	/^typedef struct _playlist Playlist;$/;"	t	typeref:struct:_playlist
+Playlist	tmp/medialib.h	/^typedef struct _playlist Playlist;$/;"	t	typeref:struct:_playlist
+REQUEST_MEDIA_TYPE	main_core.h	12;"	d
+REQUEST_MEDIA_TYPE	tmp/main_core.h	16;"	d
+REQUEST_NOW_PLAY	main_core.h	11;"	d
+REQUEST_NOW_PLAY	tmp/main_core.h	15;"	d
+REQUEST_PLAYLIST_POSITION	main_core.h	13;"	d
+REQUEST_PLAYLIST_POSITION	tmp/main_core.h	17;"	d
+REQUEST_STATE	main_core.h	10;"	d
+REQUEST_STATE	tmp/main_core.h	14;"	d
+REQUEST_VOLUME	main_core.h	15;"	d
+REQUEST_VOLUME	tmp/main_core.h	19;"	d
+REQUEST_WINDOWS_SIZE	tmp/main_core.h	18;"	d
+REQUEST_WINDOW_SIZE	main_core.h	14;"	d
+_find_cond	medialib.h	/^enum _find_cond {$/;"	g
+_find_cond	tmp/medialib.h	/^enum _find_cond$/;"	g
+_interface	interface.h	/^struct _interface {$/;"	s
+_link_t	medialib.h	/^struct _link_t {$/;"	s
+_link_t	tmp/medialib.h	/^struct _link_t$/;"	s
+_medialib	medialib.h	/^struct _medialib {$/;"	s
+_medialib	tmp/medialib.h	/^struct _medialib$/;"	s
+_node_t	medialib.h	/^struct _node_t {$/;"	s
+_node_t	tmp/medialib.h	/^struct _node_t$/;"	s
+_playlist	medialib.h	/^struct _playlist {$/;"	s
+_playlist	tmp/medialib.h	/^struct _playlist$/;"	s
+album	medialib.h	/^	char album[MAX_ALBUM_LENGTH];$/;"	m	struct:_medialib
+album	tmp/medialib.h	/^	char album[MAX_ALBUM_LENGTH];$/;"	m	struct:_medialib
+atrist	medialib.h	/^	char atrist[MAX_ATRIST_LENGTH];$/;"	m	struct:_medialib
+atrist	tmp/medialib.h	/^	char atrist[MAX_ATRIST_LENGTH];$/;"	m	struct:_medialib
+bus_call	play.c	/^static gboolean bus_call(GstBus *bus, GstMessage *msg, gpointer data) {$/;"	f	file:
+cbbFind	interface.h	/^	GtkWidget *cbbFind;$/;"	m	struct:_interface
+close_database	db.c	/^int close_database(void)$/;"	f
+create_diaMedialib	interface.c	/^GtkWidget *create_diaMedialib (InterFace *ui)$/;"	f
+create_diaPlaylist	interface.c	/^GtkWidget *create_diaPlaylist (InterFace *ui)$/;"	f
+create_diaVolume	interface.c	/^GtkWidget *create_diaVolume (InterFace *ui)$/;"	f
+create_medialib	db.c	/^int create_medialib(void)$/;"	f
+create_winMain	interface.c	/^GtkWidget *create_winMain (InterFace *ui)$/;"	f
+db	db.c	/^sqlite3 *db = NULL;$/;"	v
+diaDir	interface.h	/^	GtkWidget *diaDir;$/;"	m	struct:_interface
+diaFile	interface.h	/^	GtkWidget *diaFile;$/;"	m	struct:_interface
+diaMedialib	interface.h	/^	GtkWidget *diaMedialib;$/;"	m	struct:_interface
+diaPlaylist	interface.h	/^	GtkWidget *diaPlaylist;$/;"	m	struct:_interface
+diaVolume	interface.h	/^	GtkWidget *diaVolume;$/;"	m	struct:_interface
+etFind	interface.h	/^	GtkWidget *etFind;$/;"	m	struct:_interface
+filepath	medialib.h	/^	char filepath[MAX_PATH_LENGTH];$/;"	m	struct:_medialib
+filepath	medialib.h	/^	char filepath[MAX_PATH_LENGTH];$/;"	m	struct:_playlist
+filepath	tmp/medialib.h	/^	char filepath[MAX_PATH_LENGTH];$/;"	m	struct:_medialib
+filepath	tmp/medialib.h	/^	char filepath[MAX_PATH_LENGTH];$/;"	m	struct:_playlist
+find_cond	medialib.h	/^typedef enum _find_cond find_cond;$/;"	t	typeref:enum:_find_cond
+find_cond	tmp/medialib.h	/^typedef enum _find_cond find_cond;$/;"	t	typeref:enum:_find_cond
+general_mute	main_core.c	/^int general_mute(int mute_switch)$/;"	f
+general_play_mode	main_core.c	/^int general_play_mode(int *mode, InterFace *ui)$/;"	f
+general_play_mode	tmp/main_core.c	/^int general_play_mode(int *mode, InterFace *ui)$/;"	f
+general_sleep	main_core.c	/^int general_sleep(void)$/;"	f
+general_sleep	tmp/main_core.c	/^int general_sleep(void)$/;"	f
+general_volume	main_core.c	/^int general_volume(int volume)$/;"	f
+general_volume	tmp/main_core.c	/^int general_volume(int volume)$/;"	f
+genre	medialib.h	/^	char genre[MAX_GENRE_LENGTH];$/;"	m	struct:_medialib
+genre	tmp/medialib.h	/^	char genre[MAX_GENRE_LENGTH];$/;"	m	struct:_medialib
+get_pos	play.c	/^int get_pos(GMainLoop *loop, int pos)$/;"	f
+hazy_find	medialib.c	/^int hazy_find(const char *str1, const char *str2)$/;"	f
+hazy_find	tmp/medialib.c	/^int hazy_find(const char *str1, const char *str2)$/;"	f
+is_mp3	medialib.c	/^int is_mp3(const char *name)$/;"	f
+is_mp3	tmp/medialib.c	/^int is_mp3(const char *name)$/;"	f
+item	medialib.h	/^	Medialib item;$/;"	m	struct:_node_t
+item	tmp/medialib.h	/^	Medialib item;$/;"	m	struct:_node_t
+length	medialib.h	/^	int length;$/;"	m	struct:_link_t
+length	tmp/medialib.h	/^	int length;$/;"	m	struct:_link_t
+link_add	medialib.c	/^int link_add(link_t *mlink, const char *file)$/;"	f
+link_add	tmp/medialib.c	/^int link_add(link_t *mlink, const char *file)$/;"	f
+link_add_dir	medialib.c	/^int link_add_dir(link_t *mlink, const char *dir)$/;"	f
+link_add_dir	tmp/medialib.c	/^int link_add_dir(link_t *mlink, const char *dir)$/;"	f
+link_del	medialib.c	/^int link_del(link_t *mlink, int p)$/;"	f
+link_del	tmp/medialib.c	/^int link_del(link_t *mlink, int p)$/;"	f
+link_del_all	medialib.c	/^int link_del_all(link_t *mlink)$/;"	f
+link_del_all	tmp/medialib.c	/^int link_del_all(link_t *mlink)$/;"	f
+link_find	medialib.c	/^int link_find(link_t *mlink,$/;"	f
+link_find	tmp/medialib.c	/^int link_find(link_t *mlink,$/;"	f
+link_search	medialib.c	/^int link_search(link_t *mlink) {$/;"	f
+link_search	tmp/medialib.c	/^int link_search(link_t *mlink)$/;"	f
+link_t	medialib.h	/^typedef struct _link_t link_t;$/;"	t	typeref:struct:_link_t
+link_t	tmp/medialib.h	/^typedef struct _link_t link_t;$/;"	t	typeref:struct:_link_t
+link_to_end	medialib.c	/^node_t *link_to_end(node_t *nt)$/;"	f
+link_to_end	tmp/medialib.c	/^node_t *link_to_end(node_t *nt)$/;"	f
+load_m3u	medialib.c	/^int load_m3u(link_t *mlink, const char *file)$/;"	f
+load_m3u	tmp/medialib.c	/^int load_m3u(link_t *mlink, const char *file)$/;"	f
+load_medialib	db.c	/^int load_medialib(link_t *mlink, find_cond t)$/;"	f
+loop	Gstream/main.c	/^static GMainLoop *loop;$/;"	v	file:
+main	main.c	/^int main(int argc, char *argv[])$/;"	f
+main_core	main_core.c	/^void *main_core(int cmd, void *data)$/;"	f
+main_core	tmp/main_core.c	/^void *main_core(int cmd, void *data)$/;"	f
+medialib_add	medialib.c	/^void medialib_add(link_t *mlink, const char *file)$/;"	f
+medialib_add_dir	medialib.c	/^void medialib_add_dir(link_t *mlink, const char *file)$/;"	f
+medialib_del	medialib.c	/^void medialib_del(link_t *mlink, const char *file)$/;"	f
+medialib_del_all	medialib.c	/^void medialib_del_all(link_t *mlink, InterFace *ui)$/;"	f
+medialib_delete	db.c	/^int medialib_delete(node_t *mnode)$/;"	f
+medialib_delete_all	db.c	/^int medialib_delete_all(void)$/;"	f
+medialib_find	medialib.c	/^void medialib_find(link_t *mlink, InterFace *ui)$/;"	f
+medialib_insert	db.c	/^int medialib_insert(node_t *mnode)$/;"	f
+medialib_search	medialib.c	/^void medialib_search(link_t *mlink, InterFace *ui)$/;"	f
+medialib_sendto	medialib.c	/^void medialib_sendto(link_t *plink, const char *file)$/;"	f
+medialib_ui_show	medialib.c	/^void medialib_ui_show(link_t *mlink, InterFace *ui)$/;"	f
+node_t	medialib.h	/^typedef struct _node_t node_t;$/;"	t	typeref:struct:_node_t
+node_t	tmp/medialib.h	/^typedef struct _node_t node_t;$/;"	t	typeref:struct:_node_t
+np	medialib.h	/^	node_t *np;$/;"	m	struct:_link_t
+np	tmp/medialib.h	/^	node_t *np;$/;"	m	struct:_link_t
+on_btFind_clicked	callback.c	/^void on_btFind_clicked(GtkWidget *btMedialib,$/;"	f
+on_btMedialib_clicked	callback.c	/^void on_btMedialib_clicked(GtkWidget *btMedialib,$/;"	f
+on_btPlaylist_clicked	callback.c	/^void on_btPlaylist_clicked(GtkWidget *btPlaylist,$/;"	f
+on_btVolume_clicked	callback.c	/^void on_btVolume_clicked(GtkWidget *btVolume,$/;"	f
+on_cbbMode_active	callback.c	/^void on_cbbMode_active(GtkWidget *cbbMode,$/;"	f
+on_tbtAdd_clicked	callback.c	/^void on_tbtAdd_clicked(GtkWidget *tbtAdd,$/;"	f
+on_tbtAdddir_clicked	callback.c	/^void on_tbtAdddir_clicked(GtkWidget *tbtAdddir,$/;"	f
+on_tbtDel_clicked	callback.c	/^void on_tbtDel_clicked(GtkWidget *tbtDel,$/;"	f
+on_tbtDelall_clicked	callback.c	/^void on_tbtDelall_clicked(GtkWidget *tbtDelall,$/;"	f
+on_tbtOpen_clicked	callback.c	/^void on_tbtOpen_clicked(GtkWidget *tbtOpen,$/;"	f
+on_tbtSave_clicked	callback.c	/^void on_tbtSave_clicked(GtkWidget *tbtSave,$/;"	f
+on_tlbAdd_clicked	callback.c	/^void on_tlbAdd_clicked(GtkWidget *btMedialib,$/;"	f
+on_tlbAdddir_clicked	callback.c	/^void on_tlbAdddir_clicked(GtkWidget *btMedialib,$/;"	f
+on_tlbDel_clicked	callback.c	/^void on_tlbDel_clicked(GtkWidget *btMedialib,$/;"	f
+on_tlbDelall_clicked	callback.c	/^void on_tlbDelall_clicked(GtkWidget *btMedialib,$/;"	f
+on_tlbSearch_clicked	callback.c	/^void on_tlbSearch_clicked(GtkWidget *btMedialib,$/;"	f
+on_tlbSendto_clicked	callback.c	/^void on_tlbSendto_clicked(GtkWidget *btMedialib,$/;"	f
+open_database	db.c	/^int open_database(void)$/;"	f
+p	medialib.h	/^	node_t *p;$/;"	m	struct:_node_t
+p	tmp/medialib.h	/^	node_t *p;$/;"	m	struct:_node_t
+play	play.c	/^void play(int cmd, void *data)$/;"	f
+playlist_add	medialib.c	/^void playlist_add(link_t *plink, const char *file)$/;"	f
+playlist_add_dir	medialib.c	/^void playlist_add_dir(link_t *plink, const char *file)$/;"	f
+playlist_del	medialib.c	/^void playlist_del(link_t *plink, InterFace *ui)$/;"	f
+playlist_del_all	medialib.c	/^void playlist_del_all(link_t *plink, InterFace *ui)$/;"	f
+playlist_open	medialib.c	/^void playlist_open(link_t *plink, const char *file)$/;"	f
+playlist_save	medialib.c	/^void playlist_save(link_t *plink, const char *file)$/;"	f
+playlist_ui_show	medialib.c	/^void playlist_ui_show(link_t *plink, InterFace *ui)$/;"	f
+read_tag_from_file	medialib.c	/^int read_tag_from_file(const char *file,$/;"	f
+read_tag_from_file	tmp/medialib.c	/^int read_tag_from_file(const char *file, struct _medialib *media)$/;"	f
+record_time	medialib.h	/^	double record_time;$/;"	m	struct:_medialib
+record_time	medialib.h	/^	double record_time;$/;"	m	struct:_playlist
+record_time	tmp/medialib.h	/^	double record_time;$/;"	m	struct:_medialib
+record_time	tmp/medialib.h	/^	double record_time;$/;"	m	struct:_playlist
+request_volume	main_core.c	/^void *request_volume(void)$/;"	f
+save_m3u	medialib.c	/^int save_m3u(link_t *mlink, const char *file)$/;"	f
+save_m3u	tmp/medialib.c	/^int save_m3u(link_t *mlink, const char *file)$/;"	f
+set_treeClass	interface.c	/^int set_treeClass(InterFace *ui)$/;"	f
+title	medialib.h	/^	char title[MAX_TITLE_LENGTH];$/;"	m	struct:_medialib
+title	medialib.h	/^	char title[MAX_TITLE_LENGTH];$/;"	m	struct:_playlist
+title	tmp/medialib.h	/^	char title[MAX_TITLE_LENGTH];$/;"	m	struct:_medialib
+title	tmp/medialib.h	/^	char title[MAX_TITLE_LENGTH];$/;"	m	struct:_playlist
+treeClass	interface.h	/^	GtkWidget *treeClass;$/;"	m	struct:_interface
+treeClass_data	medialib.c	/^void treeClass_data(link_t *mlink, InterFace *ui)$/;"	f
+treeClass_init	medialib.c	/^void treeClass_init(link_t *mlink, InterFace *ui)$/;"	f
+treeMedialib	interface.h	/^	GtkWidget *treeMedialib;$/;"	m	struct:_interface
+treeMedialib_data	medialib.c	/^void treeMedialib_data(link_t *mlink, InterFace *ui)$/;"	f
+treeMedialib_init	medialib.c	/^void treeMedialib_init(link_t *mlink, InterFace *ui)$/;"	f
+treePlaylist	interface.h	/^	GtkWidget *treePlaylist;$/;"	m	struct:_interface
+treePlaylist_data	medialib.c	/^void treePlaylist_data(link_t *plink, InterFace *ui)$/;"	f
+treePlaylist_init	medialib.c	/^void treePlaylist_init(link_t *mlink, InterFace *ui)$/;"	f
+winMain	interface.h	/^	GtkWidget *winMain;$/;"	m	struct:_interface
